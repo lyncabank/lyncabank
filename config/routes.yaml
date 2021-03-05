@@ -1,0 +1,14 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+app:
+    path: /
+    controller: App\Controller\MainController::index
+
+initiation_download:
+    path: /initiation/download
+    controller: App\Controller\InitiationController::download
+    #amendment
+#amendment_download:
+#    path: /amendment/download
+#    controller: App\Controller\AmendmentController::download
