@@ -2,7 +2,7 @@
 
 The goal of the project is to generate SEPA e-mandates according to the guides implemented by the EUROPEAN PAYMENT COUNCIL (https://www.europeanpaymentscouncil.eu/)
 The scope of the project has three steps
-- Generate the form in merchant ,inwhich user insert bank details
+- Generate the form in merchant ,in which user inserts bank details
 - Initiate the E-mandate according to European payment Council
 - Authentication of user in external provided
 - Reception of e-mandate signed
