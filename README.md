@@ -1,4 +1,4 @@
-# SEPA DIRECT DEBIT MANDATES
+# SEPA DIRECT DEBIT E-MANDATES
 
 The goal of the project is to generate SEPA e-mandates according to the guides implemented by the EUROPEAN PAYMENT COUNCIL (https://www.europeanpaymentscouncil.eu/)
 The scope of the project has three steps
